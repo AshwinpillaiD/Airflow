@@ -1,0 +1,6 @@
+id,customer,product,amount,city,date
+2.0,Arun,Mobile,2000.0,Bangalore,2025-01-02
+,David,obile,,Bangalore,2025-01-05
+4.0,John,Laptop,60000.0,Hyderabad,2025-01-04
+3.0,Kumar,Tablet,15000.0,Chennai,2025-01-03
+1.0,Ravi,Laptop,55000.0,Chennai,2025-01-01
